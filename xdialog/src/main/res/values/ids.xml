@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="normal_dialog_container" type="id" />
+    <item name="normal_dialog_title" type="id" />
+    <item name="normal_dialog_msg" type="id" />
+    <item name="normal_dialog_input" type="id" />
+    <item name="normal_dialog_cancel" type="id" />
+    <item name="normal_dialog_confirm" type="id" />
+    <item name="normal_dialog_bottom_container" type="id" />
+</resources>
